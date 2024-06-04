@@ -1,0 +1,12 @@
+{
+  "name": "30_may-loop_asgnmt",
+  "version": "1.0.0",
+  "description": "My loop Assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaheer",
+  "license": "MIT"
+}
